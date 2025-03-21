@@ -39,3 +39,10 @@ An attempt to replicate the Apple Vision Pro website experience.
 A trial project to replicate the SidCup Family Golf website.  
 
 ![SidCup Family Golf-Inspired Preview](https://github.com/AmulyaInnovates/Web-Designs/blob/5428ca7293a248091714457bf44b96795d40c80c/Sixth%203D-Project%20(Side%20Cup%20Family%20Golf)/OUTPUT-6.png?raw=true)
+
+---
+
+## 7. Magma Real Estate-Inspired Website  
+An attempt to replicate the website of Magma, one of the best real estate companies.  
+
+![Magma Real Estate-Inspired Preview](https://github.com/AmulyaInnovates/Web-Designs/blob/c5cab5060110566561e88a44694b70b311f093d2/Seventh%203D-Project%20(Magma)/OUTPUT-7.png?raw=true)
