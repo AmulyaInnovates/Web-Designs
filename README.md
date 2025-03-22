@@ -53,3 +53,17 @@ An attempt to replicate the website of Magma, one of the best real estate compan
 A trial project to recreate the website experience of Trip.com.  
 
 ![Trip.com-Inspired Preview](https://github.com/AmulyaInnovates/Web-Designs/blob/89cd0ae5ba70658efd24d92b67f6e25658c2f31f/Eighth%20Website-Project%20(Trip.com)/OUTPUT-8.png?raw=true)
+
+---
+
+## 9. Apple MacBook Pro-Inspired Website  
+A trial project to replicate the Apple MacBook Pro website.  
+
+![MacBook Pro-Inspired Preview](https://github.com/AmulyaInnovates/Web-Designs/blob/b43ecfccca3c2ebb80fc9612fc81ab30ec4ebb13/Ninth%203D-Project%20(Macbook%20PRO)/OUTPUT-9.png?raw=true)
+
+---
+
+## 10. Mediteranski-Inspired Website  
+An attempt to recreate the Mediteranski website experience.  
+
+![Mediteranski-Inspired Preview](https://github.com/AmulyaInnovates/Web-Designs/blob/b43ecfccca3c2ebb80fc9612fc81ab30ec4ebb13/Tenth%203D-Project%20(Mediteranski)/OUTPUT-10.png?raw=true)
