@@ -46,3 +46,10 @@ A trial project to replicate the SidCup Family Golf website.
 An attempt to replicate the website of Magma, one of the best real estate companies.  
 
 ![Magma Real Estate-Inspired Preview](https://github.com/AmulyaInnovates/Web-Designs/blob/c5cab5060110566561e88a44694b70b311f093d2/Seventh%203D-Project%20(Magma)/OUTPUT-7.png?raw=true)
+
+---
+
+## 8. Trip.com-Inspired Website  
+A trial project to recreate the website experience of Trip.com.  
+
+![Trip.com-Inspired Preview](https://github.com/AmulyaInnovates/Web-Designs/blob/89cd0ae5ba70658efd24d92b67f6e25658c2f31f/Eighth%20Website-Project%20(Trip.com)/OUTPUT-8.png?raw=true)
