@@ -1,8 +1,21 @@
 # My Projects
 
 ## 1. Self-Description | Portfolio with 3D  
-A 3D Portfolio website showcasing my skills and projects.  
-🔗 [Live Preview](https://amulyainnovates.github.io/Self-Description-Portfolio-with-3D/)
+A 3D Portfolio website showcasing my skills and projects.
+<a href="https://amulyainnovates.github.io/Self-Description-Portfolio-with-3D/" target="_blank" style="
+  display: inline-flex;
+  align-items: center;
+  background-color: #28a745;
+  color: white;
+  padding: 8px 14px;
+  border-radius: 6px;
+  font-weight: 600;
+  text-decoration: none;
+  font-family: sans-serif;
+  transition: background-color 0.2s ease;
+">
+  ▶ Live Preview
+</a>
 
 ![Portfolio Preview](https://github.com/AmulyaInnovates/Web-Designs/blob/b39f11aa027403ae66088f7049440802832d3fc3/First-3d-Project/OUTPUT-1.png?raw=true)
 
@@ -10,6 +23,20 @@ A 3D Portfolio website showcasing my skills and projects.
 
 ## 2. Zelt-Inspired Website  
 An attempt to replicate the Zelt company website.  
+<a href="https://amulyainnovates.github.io/3D-Project-Zelt-/" target="_blank" style="
+  display: inline-flex;
+  align-items: center;
+  background-color: #28a745;
+  color: white;
+  padding: 8px 14px;
+  border-radius: 6px;
+  font-weight: 600;
+  text-decoration: none;
+  font-family: sans-serif;
+  transition: background-color 0.2s ease;
+">
+  ▶ Live Preview
+</a>
 
 ![Zelt-Inspired Preview](https://github.com/AmulyaInnovates/Web-Designs/blob/b39f11aa027403ae66088f7049440802832d3fc3/Second%203D-Project(Zelt)/OUTPUT-2.png?raw=true)
 
