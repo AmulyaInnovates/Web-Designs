@@ -2,7 +2,7 @@
 
 ## 1. Self-Description | Portfolio with 3D  
 A 3D Portfolio website showcasing my skills and projects.
----
+
 <a href="https://amulyainnovates.github.io/Self-Description-Portfolio-with-3D/" target="_blank" style="
   display: inline-flex;
   align-items: center;
